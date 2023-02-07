@@ -1,1 +1,2 @@
-my second commit
+doing hard things
+
